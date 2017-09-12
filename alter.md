@@ -1,1 +1,0 @@
-Ceci est un fichier de subsitution au fichier cours
